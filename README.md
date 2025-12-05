@@ -66,17 +66,11 @@ I am currently deep-diving into the **AI Engineering** ecosystem to bridge the g
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
+<br />
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=emiryilmazb&show_icons=true&theme=tokyonight&locale=en" alt="Emir's Github Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiryilmazb&layout=compact&theme=tokyonight&locale=en" alt="Top Langs" />
-  </p>
+  <i>Let's build the future of AI together.</i>
 </div>
