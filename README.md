@@ -15,7 +15,7 @@
 
 I am a **Computer Engineer** passionate about building intelligent systems. While I have a strong background in **Back-End Development**, my career is fully dedicated to **Artificial Intelligence Engineering**.
 
-Currently, I work as a **Back-End Python Developer** (External @ BSH), creating production-grade LLM applications. I am actively expanding my expertise from *using* AI models to **optimizing and fine-tuning** custom models for specific domain tasks.
+Currently, I work as a **Python Developer** (External @ BSH), creating production-grade LLM applications. I am actively expanding my expertise from *using* AI models to **optimizing and fine-tuning** custom models for specific domain tasks.
 
 ---
 
